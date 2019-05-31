@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Rough{
+class MaxNum{
 	public static void main(String args[]){
 		int mx=-1,flag=0;
 		Scanner kb=new Scanner(System.in);
